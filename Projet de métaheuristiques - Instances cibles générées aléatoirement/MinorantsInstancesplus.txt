@@ -1,0 +1,38 @@
+captANOR150_7_4.dat
+Nb de sommets :151
+K=1
+Rcapt/Rcom=1/1-> bornePL=20.42
+Rcapt/Rcom=1/2-> bornePL=18.5
+Rcapt/Rcom=2/2-> bornePL=5.74 
+Rcapt/Rcom=2/3-> bornePL= 5.5
+
+*******************************************************************************
+
+captANOR400_7_10.dat
+Nb de sommets :401
+K=1
+Rcapt/Rcom=1/1-> bornePL=19.43
+Rcapt/Rcom=1/2-> bornePL=19.07 
+Rcapt/Rcom=2/2-> bornePL=6.05 
+Rcapt/Rcom=2/3-> bornePL=6
+
+ *******************************************************************************
+captANOR900_14_20.dat
+Nb de sommets :901
+K=1
+Rcapt/Rcom=1/1-> bornePL=69.33
+Rcapt/Rcom=1/2-> bornePL=68.27
+Rcapt/Rcom=2/2-> bornePL=19.71
+Rcapt/Rcom=2/3-> bornePL=19.53
+
+
+*******************************************************************************
+captANOR1600_16_100.dat
+Nb de sommets :1601
+K=1
+Rcapt/Rcom=1/1-> bornePL=89.73
+Rcapt/Rcom=1/2-> bornePL=89.12
+Rcapt/Rcom=2/2-> bornePL=24.90
+Rcapt/Rcom=2/3-> bornePL=24.66
+
+
